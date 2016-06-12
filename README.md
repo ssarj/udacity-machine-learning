@@ -7,3 +7,4 @@
 - [Into to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
 - [NumPy documentation](https://docs.scipy.org/doc/numpy-dev/index.html)
 - [Udacity commit style guide](https://udacity.github.io/git-styleguide/)
+- [The elements of statistical learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
